@@ -10,7 +10,7 @@ class MasterMind {
 }
 
 
-/* hier ga ik mastermind maken. (Gekozen kleuren: blauw, bruin, geel, paars.)
+/* hier ga ik mastermind maken. (Gekozen kleuren: blauw, bruin, geel, paars / 1 3 5 7)
 - 	Stap 1: wat is mastermind? Bij Mastermind zijn er 2 spelers. 1 speler moet de kleuren van de ballen en
 	en de plek op het bord raden waar speler 2 de ballen heeft neergezet. Het spel speelt in 12 rondes.
 	Speler 2 heeft dus een volgorde en kleur van de ballen gekozen. Speler 2 dient dan in maximaal 12x
