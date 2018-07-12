@@ -4,7 +4,7 @@ public class Switch {
 
 		public static void main (String[] args) {
 			
-			String kleur = "blauw";
+			String kleur = "oranje";
 			switch(kleur) {
 			case "blauw":
 				System.out.println("correcte kleur, kies nog een x ");

@@ -2,7 +2,7 @@ package MasterMind;
 
 public class Loop {
 
-	public static void main(String[] args)
+	public static void main(String[] args)								// dit is de applicatie die verantwoordelijk is voor het opstarten, dus 1x gebruiken. dit is dus het begin touwtje waaruoit de hele applicatie zich ontvouwt.
 	{
 		for (int i = 0; i < 13; i++)
 		{

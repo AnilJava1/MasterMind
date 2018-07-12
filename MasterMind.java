@@ -8,7 +8,7 @@ class MasterMind {
 	}
 
 }
-
+//test
 
 /* hier ga ik mastermind maken. (Gekozen kleuren: blauw, bruin, geel, paars / 1 3 5 7)
 - 	Stap 1: wat is mastermind? Bij Mastermind zijn er 2 spelers. 1 speler moet de kleuren van de ballen en
